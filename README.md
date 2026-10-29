@@ -22,7 +22,6 @@ I like figuring out how things work, then seeing if I can build them myself. Mos
 - 🎓 Studying **Software Development with an AI concentration** at Bellevue College.
 - 🧠 Interested in **machine learning, RAG, AI agents, and the engineering behind deploying models**.
 - 🖥️ Running a **Proxmox homelab** to experiment with APIs, databases, model serving, and monitoring.
-- 🤝 Helping students with **Java, Python, and SQL** as a Student Technology Assistant.
 - 🌍 Co-founding **[Mahtot](https://mahtot.org)**, where we're working on ways to make education and technology opportunities more accessible in Ethiopia.
 
 ### 🛠️ Tech I use
