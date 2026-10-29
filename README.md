@@ -40,10 +40,10 @@ I like figuring out how things work, then seeing if I can build them myself. Mos
 
 | Project | What it does | Built with |
 | :--- | :--- | :--- |
-| ** Local RAG System** | A self-hosted document Q&A system with vector search and responses grounded in retrieved sources. | FastAPI · Ollama · PostgreSQL / pgvector |
-| ** AI Ticket Router** | Routes support tickets across **52 queues**. Trained on ~**16K tickets** and reached **~0.83 macro-F1**. | XLM-RoBERTa · PyTorch · MLflow |
-| ** Fraud Detection MLOps** | Fraud classification with **0.874 F1** and an API for predictions, plus monitoring work. | scikit-learn · FastAPI · Prometheus |
-| ** Mahtot / TEMARI Hub** | Building tools to help young people find education, internships, and other opportunities. | Full-stack web development |
+| **Local RAG System** | A self-hosted document Q&A system with vector search and responses grounded in retrieved sources. | FastAPI · Ollama · PostgreSQL / pgvector |
+| **AI Ticket Router** | Routes support tickets across **52 queues**. Trained on ~**16K tickets** and reached **~0.83 macro-F1**. | XLM-RoBERTa · PyTorch · MLflow |
+| **Fraud Detection MLOps** | Fraud classification with **0.874 F1** and an API for predictions, plus monitoring work. | scikit-learn · FastAPI · Prometheus |
+| **Mahtot / TEMARI Hub** | Building tools to help young people find education, internships, and other opportunities. | Full-stack web development |
 
 ### What I'm working on
 
