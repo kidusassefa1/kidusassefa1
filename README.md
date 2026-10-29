@@ -17,12 +17,12 @@ I like figuring out how things work, then seeing if I can build them myself. Mos
 
 ### 👨‍💻 A little about me
 
-- 🎓 Studying **Software Development with an AI concentration** at Bellevue College.
-- 🧠 Interested in **machine learning, RAG, AI agents, and the engineering behind deploying models**.
-- 🖥️ Running a **Proxmox homelab** to experiment with APIs, databases, model serving, and monitoring.
-- 🌍 Co-founding **[Mahtot](https://mahtot.org)**, where we're working on ways to make education and technology opportunities more accessible in Ethiopia.
+- Studying **Software Development with an AI concentration** at Bellevue College.
+- Interested in **machine learning, RAG, AI agents, and the engineering behind deploying models**.
+- Running a **Proxmox homelab** to experiment with APIs, databases, model serving, and monitoring.
+- Co-founding **[Mahtot](https://mahtot.org)**, where we're working on ways to make education and technology opportunities more accessible in Ethiopia.
 
-### 🛠️ Tech I use
+### Tech I use
 
 **Languages**
 
@@ -36,16 +36,16 @@ I like figuring out how things work, then seeing if I can build them myself. Mos
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### 🚀 Things I've built
+### Things I've built
 
 | Project | What it does | Built with |
 | :--- | :--- | :--- |
-| **🧠 Local RAG System** | A self-hosted document Q&A system with vector search and responses grounded in retrieved sources. | FastAPI · Ollama · PostgreSQL / pgvector |
-| **🎫 AI Ticket Router** | Routes support tickets across **52 queues**. Trained on ~**16K tickets** and reached **~0.83 macro-F1**. | XLM-RoBERTa · PyTorch · MLflow |
-| **🔍 Fraud Detection MLOps** | Fraud classification with **0.874 F1** and an API for predictions, plus monitoring work. | scikit-learn · FastAPI · Prometheus |
-| **🌍 Mahtot / TEMARI Hub** | Building tools to help young people find education, internships, and other opportunities. | Full-stack web development |
+| ** Local RAG System** | A self-hosted document Q&A system with vector search and responses grounded in retrieved sources. | FastAPI · Ollama · PostgreSQL / pgvector |
+| ** AI Ticket Router** | Routes support tickets across **52 queues**. Trained on ~**16K tickets** and reached **~0.83 macro-F1**. | XLM-RoBERTa · PyTorch · MLflow |
+| ** Fraud Detection MLOps** | Fraud classification with **0.874 F1** and an API for predictions, plus monitoring work. | scikit-learn · FastAPI · Prometheus |
+| ** Mahtot / TEMARI Hub** | Building tools to help young people find education, internships, and other opportunities. | Full-stack web development |
 
-### 📍 What I'm working on
+### What I'm working on
 
 - Getting better at **Java and data structures**.
 - Making my ML projects easier to **deploy, monitor, and maintain**.
