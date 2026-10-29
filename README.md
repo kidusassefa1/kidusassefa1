@@ -11,8 +11,6 @@ I like figuring out how things work, then seeing if I can build them myself. Mos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kidustesfayeassefa)
 [![GitHub](https://img.shields.io/badge/GitHub-My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kidusassefa1)
 [![Mahtot](https://img.shields.io/badge/Mahtot-Visit%20Website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mahtot.org)
-<!-- Replace YOUR-LINKEDIN-USERNAME with your actual LinkedIn profile slug and the generic GitHub URL with your profile URL. -->
-
 </div>
 
 ---
@@ -47,8 +45,6 @@ I like figuring out how things work, then seeing if I can build them myself. Mos
 | **🔍 Fraud Detection MLOps** | Fraud classification with **0.874 F1** and an API for predictions, plus monitoring work. | scikit-learn · FastAPI · Prometheus |
 | **🌍 Mahtot / TEMARI Hub** | Building tools to help young people find education, internships, and other opportunities. | Full-stack web development |
 
-<!-- When your repositories are public, turn each project name into a link to its actual repo. -->
-
 ### 📍 What I'm working on
 
 - Getting better at **Java and data structures**.
@@ -61,7 +57,6 @@ I like figuring out how things work, then seeing if I can build them myself. Mos
 I run Proxmox with VMs and containers for Ollama, FastAPI, PostgreSQL, MLflow, MinIO, and other services. It gives me somewhere to break things, figure out why they broke, and try again without depending on cloud credits. 😅
 
 ```text
-Idea → Train / Build → API → Deploy → Monitor → Improve
 ```
 
 </details>
