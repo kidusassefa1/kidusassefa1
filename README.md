@@ -8,8 +8,8 @@
 
 I like figuring out how things work, then seeing if I can build them myself. Most of my projects involve machine learning, APIs, and a homelab that probably gets more attention than it should. I'm especially interested in making AI useful outside of a Jupyter notebook.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/)
-[![GitHub](https://img.shields.io/badge/GitHub-My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kidustesfayeassefa)
+[![GitHub](https://img.shields.io/badge/GitHub-My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kidusassefa1)
 [![Mahtot](https://img.shields.io/badge/Mahtot-Visit%20Website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mahtot.org)
 <!-- Replace YOUR-LINKEDIN-USERNAME with your actual LinkedIn profile slug and the generic GitHub URL with your profile URL. -->
 
@@ -66,13 +66,3 @@ Idea → Train / Build → API → Deploy → Monitor → Improve
 ```
 
 </details>
-
----
-
-<div align="center">
-
-*Usually working on something new. Sometimes it's even documented.*
-
-<!-- Optional: Once you share your GitHub username, add a live stats card or contribution chart here. -->
-
-</div>
